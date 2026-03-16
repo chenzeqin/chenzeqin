@@ -7,6 +7,14 @@
 
 ---
 
+## Focus
+
+- [algorithm leaning](https://chenzeqin.github.io/algorithm-js-youtube/)
+
+- [three.js leaning](https://chenzeqin.github.io/threejs-bilibili/)
+
+---
+
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -56,7 +64,3 @@
 
 - GitHub: <https://github.com/chenzeqin>
 - Email: <your@email.com>
-
-- [algorithm leaning](https://chenzeqin.github.io/algorithm-js-youtube/)
-
-- [three.js leaning](https://chenzeqin.github.io/threejs-bilibili/)
