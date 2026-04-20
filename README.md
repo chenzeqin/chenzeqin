@@ -1,4 +1,4 @@
-# Hi 👋 I'm zq c
+# Hi 👋 I'm Kian Chen
 
 🗺 **Frontend Developer | GIS Enthusiast**
 
